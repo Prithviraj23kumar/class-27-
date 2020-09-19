@@ -1,2 +1,2 @@
-# class-27-
-class27 constaned bodys
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
